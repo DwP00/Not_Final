@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "497054696849",
+    "project_id": "uass-firebase",
+    "storage_bucket": "uass-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:497054696849:android:d19194bd10056d34e1c630",
+        "android_client_info": {
+          "package_name": "com.example.healthypet"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGybIKvduYgqGEWIfw_KQh7YVOYC8KKuM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
